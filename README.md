@@ -1,7 +1,7 @@
-## Handwriting generation
+## Handwriting synthesis using recurrent neural networks (RNN)
 Implementation of handwriting generation with use of recurrent neural networks in tensorflow. Based on Alex Graves paper (https://arxiv.org/abs/1308.0850).
 
-## How to train a model and generate handwriting
+## How to train a model and generate synthesized handwriting
 
 #### 1. Download dataset
 First you need to download dataset from (http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database). Download the [data/original-xml-part.tar.gz]. Unzip it in repository directory.

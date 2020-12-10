@@ -24,7 +24,7 @@ python train.py --restore=summary\experiment-0
 ```
 We can lookup losses in command line or with tensorboard. 
 
-With default settings training took about 10h (using EC2 p3 instance).
+With default settings training took about 10h (using Aamazon AWS EC2 p3 instance).
 
 
 #### 4. Generate handwriting!
